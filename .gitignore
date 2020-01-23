@@ -1,0 +1,7 @@
+auth_manager/node_modules
+auth_manager/.env
+
+transactions_manager/node_modules
+transactions_manager/.env
+
+data
